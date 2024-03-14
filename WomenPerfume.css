@@ -1,0 +1,53 @@
+.womenMain{
+    background-image:url("Assets/background2.jpg") ;
+}
+.womenNav{
+     
+      position: relative;
+      top:84px;
+      
+      
+      
+}
+
+input{
+    width: 400px;
+    height: 50px;
+    position: relative;
+    top:180px;
+    left: 35%;
+    margin-top: 10px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+.searchIcon{
+    position: relative;
+    top:185px;
+    left: 32%;
+}
+
+
+.womenItems{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 220px;
+}
+.womenItems div{
+    background-color:antiquewhite;
+    margin: 10px;
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -moz-border-radius: 10%;
+    -ms-border-radius: 10%;
+    -o-border-radius: 10%;
+    box-shadow: 0 0 10 50px rgba(196, 168, 13, 0.1);
+}
+.womenItems img{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+}
